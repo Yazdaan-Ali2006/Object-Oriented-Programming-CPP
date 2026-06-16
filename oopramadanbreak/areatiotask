@@ -1,0 +1,20 @@
+Task: University Management System
+
+You will make 4 classes.
+
+1️⃣ Student
+2️⃣ Teacher
+3️⃣ Department
+4️⃣ University
+
+Now we apply Aggregation and Composition.
+
+Composition (Strong Relationship)
+
+University has Departments.
+
+A department cannot exist without the university.
+
+Example:
+
+University → Department
